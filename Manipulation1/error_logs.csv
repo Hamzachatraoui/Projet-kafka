@@ -1,0 +1,53 @@
+Timestamp,Level,Message
+2024-12-14 21:19:31,WARN,[ERROR] 2024-12-01 14:05:15 - UserID: 12345 - Service: Auth - Message: Invalid credentials
+2024-12-14 21:19:34,WARN,[ERROR] 2024-12-01 14:25:20 - UserID: 67890 - Service: Signup - Message: Email already in use
+2024-12-14 21:19:46,WARN,[ERROR] 2024-12-01 09:05:10 - UserID: 1002 - Service: Auth - Message: Invalid password
+2024-12-14 21:20:02,WARN,[ERROR] 2024-12-01 09:25:50 - Service: Signup - Message: Email already in use
+2024-12-14 21:20:14,WARN,[ERROR] 2024-12-01 09:40:10 - Service: Auth - Message: Account locked due to too many login attempts
+2024-12-14 21:20:30,WARN,[ERROR] 2024-12-01 10:00:30 - Service: API - Message: Endpoint timeout error
+2024-12-14 21:20:46,WARN,[ERROR] 2024-12-01 10:20:40 - Service: Notification - MessageID: 11248 - Message: Notification delivery failed
+2024-12-14 21:21:02,WARN,[ERROR] 2024-12-01 10:40:45 - Service: Signup - Message: Username already taken
+2024-12-14 21:21:18,WARN,[ERROR] 2024-12-01 11:00:45 - Service: Notification - MessageID: 11266 - Message: Failed to send alert
+2024-12-14 21:21:34,WARN,[ERROR] 2024-12-01 11:20:15 - Service: API - Message: Service unavailable error
+2024-12-14 21:21:50,WARN,[ERROR] 2024-12-01 11:40:45 - Service: Notification - MessageID: 11345 - Message: Failed delivery
+2024-12-14 21:22:06,WARN,[ERROR] 2024-12-01 14:05:15 - UserID: 12345 - Service: Auth - Message: Invalid credentials
+2024-12-14 21:22:22,WARN,[ERROR] 2024-12-01 14:25:20 - UserID: 67890 - Service: Signup - Message: Email already in use
+2024-12-14 21:22:34,WARN,[ERROR] 2024-12-01 09:05:10 - UserID: 1002 - Service: Auth - Message: Invalid password
+2024-12-14 21:22:50,WARN,[ERROR] 2024-12-01 09:25:50 - Service: Signup - Message: Email already in use
+2024-12-14 21:23:02,WARN,[ERROR] 2024-12-01 09:40:10 - Service: Auth - Message: Account locked due to too many login attempts
+2024-12-14 21:23:18,WARN,[ERROR] 2024-12-01 10:00:30 - Service: API - Message: Endpoint timeout error
+2024-12-14 21:23:34,WARN,[ERROR] 2024-12-01 10:20:40 - Service: Notification - MessageID: 11248 - Message: Notification delivery failed
+2024-12-14 21:23:50,WARN,[ERROR] 2024-12-01 10:40:45 - Service: Signup - Message: Username already taken
+2024-12-14 21:24:06,WARN,[ERROR] 2024-12-01 11:00:45 - Service: Notification - MessageID: 11266 - Message: Failed to send alert
+2024-12-14 21:24:22,WARN,[ERROR] 2024-12-01 11:20:15 - Service: API - Message: Service unavailable error
+2024-12-14 21:24:38,WARN,[ERROR] 2024-12-01 11:40:45 - Service: Notification - MessageID: 11345 - Message: Failed delivery
+2024-12-14 21:24:54,WARN,[ERROR] 2024-12-01 14:05:15 - UserID: 12345 - Service: Auth - Message: Invalid credentials
+2024-12-14 21:25:10,WARN,[ERROR] 2024-12-01 14:25:20 - UserID: 67890 - Service: Signup - Message: Email already in use
+2024-12-14 21:25:22,WARN,[ERROR] 2024-12-01 09:05:10 - UserID: 1002 - Service: Auth - Message: Invalid password
+2024-12-14 21:25:38,WARN,[ERROR] 2024-12-01 09:25:50 - Service: Signup - Message: Email already in use
+2024-12-14 21:25:50,WARN,[ERROR] 2024-12-01 09:40:10 - Service: Auth - Message: Account locked due to too many login attempts
+2024-12-14 21:26:06,WARN,[ERROR] 2024-12-01 10:00:30 - Service: API - Message: Endpoint timeout error
+2024-12-14 21:26:22,WARN,[ERROR] 2024-12-01 10:20:40 - Service: Notification - MessageID: 11248 - Message: Notification delivery failed
+2024-12-14 21:26:38,WARN,[ERROR] 2024-12-01 10:40:45 - Service: Signup - Message: Username already taken
+2024-12-14 21:26:54,WARN,[ERROR] 2024-12-01 11:00:45 - Service: Notification - MessageID: 11266 - Message: Failed to send alert
+2024-12-14 21:27:10,WARN,[ERROR] 2024-12-01 11:20:15 - Service: API - Message: Service unavailable error
+2024-12-14 21:27:26,WARN,[ERROR] 2024-12-01 11:40:45 - Service: Notification - MessageID: 11345 - Message: Failed delivery
+2024-12-14 21:27:42,WARN,[ERROR] 2024-12-01 14:05:15 - UserID: 12345 - Service: Auth - Message: Invalid credentials
+2024-12-14 21:27:58,WARN,[ERROR] 2024-12-01 14:25:20 - UserID: 67890 - Service: Signup - Message: Email already in use
+2024-12-14 21:28:10,WARN,[ERROR] 2024-12-01 09:05:10 - UserID: 1002 - Service: Auth - Message: Invalid password
+2024-12-14 21:28:26,WARN,[ERROR] 2024-12-01 09:25:50 - Service: Signup - Message: Email already in use
+2024-12-14 21:28:38,WARN,[ERROR] 2024-12-01 09:40:10 - Service: Auth - Message: Account locked due to too many login attempts
+2024-12-14 21:28:54,WARN,[ERROR] 2024-12-01 10:00:30 - Service: API - Message: Endpoint timeout error
+2024-12-14 21:29:10,WARN,[ERROR] 2024-12-01 10:20:40 - Service: Notification - MessageID: 11248 - Message: Notification delivery failed
+2024-12-14 21:29:26,WARN,[ERROR] 2024-12-01 10:40:45 - Service: Signup - Message: Username already taken
+2024-12-14 21:29:42,WARN,[ERROR] 2024-12-01 11:00:45 - Service: Notification - MessageID: 11266 - Message: Failed to send alert
+2024-12-14 21:29:58,WARN,[ERROR] 2024-12-01 11:20:15 - Service: API - Message: Service unavailable error
+2024-12-14 21:30:14,WARN,[ERROR] 2024-12-01 11:40:45 - Service: Notification - MessageID: 11345 - Message: Failed delivery
+2024-12-14 21:30:30,WARN,[ERROR] 2024-12-01 14:05:15 - UserID: 12345 - Service: Auth - Message: Invalid credentials
+2024-12-14 21:30:46,WARN,[ERROR] 2024-12-01 14:25:20 - UserID: 67890 - Service: Signup - Message: Email already in use
+2024-12-14 21:30:58,WARN,[ERROR] 2024-12-01 09:05:10 - UserID: 1002 - Service: Auth - Message: Invalid password
+2024-12-14 21:31:14,WARN,[ERROR] 2024-12-01 09:25:50 - Service: Signup - Message: Email already in use
+2024-12-14 21:31:26,WARN,[ERROR] 2024-12-01 09:40:10 - Service: Auth - Message: Account locked due to too many login attempts
+2024-12-14 21:31:42,WARN,[ERROR] 2024-12-01 10:00:30 - Service: API - Message: Endpoint timeout error
+2024-12-14 21:31:58,WARN,[ERROR] 2024-12-01 10:20:40 - Service: Notification - MessageID: 11248 - Message: Notification delivery failed
+2024-12-14 21:32:14,WARN,[ERROR] 2024-12-01 10:40:45 - Service: Signup - Message: Username already taken

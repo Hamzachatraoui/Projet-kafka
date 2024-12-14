@@ -1,0 +1,53 @@
+Timestamp,Level,Message
+1734207554744,INFO,[INFO]  2024-12-01 14:00:01 - UserID: 12345 - Service: Auth - Message: Login successful
+1734207570751,INFO,[INFO]  2024-12-01 14:20:00 - UserID: 67890 - Service: Signup - Message: User registered successfully
+1734207582753,INFO,[INFO]  2024-12-01 09:00:01 - UserID: 1001 - Service: Auth - Message: Login successful
+1734207598778,INFO,[INFO]  2024-12-01 09:20:15 - UserID: 1003 - Service: Signup - Message: User registration successful
+1734207610779,INFO,[INFO]  2024-12-01 09:35:00 - UserID: 1005 - Service: Auth - Message: Logout successful
+1734207626785,INFO,[INFO]  2024-12-01 09:55:45 - UserID: 1010 - Service: Signup - Message: Account created successfully
+1734207642787,INFO,[INFO]  2024-12-01 10:15:00 - UserID: 1015 - Service: Auth - Message: Password reset successful
+1734207658792,INFO,[INFO]  2024-12-01 10:35:15 - UserID: 1020 - Service: Auth - Message: Login attempt from new device
+1734207674794,INFO,[INFO]  2024-12-01 10:55:10 - UserID: 1025 - Service: Reporting - Message: Data report export completed
+1734207690808,INFO,[INFO]  2024-12-01 11:15:55 - UserID: 1030 - Service: Auth - Message: Multi-factor authentication enabled
+1734207706830,INFO,[INFO]  2024-12-01 11:35:15 - UserID: 1035 - Service: Signup - Message: User successfully registered
+1734207722836,INFO,[INFO]  2024-12-01 14:00:01 - UserID: 12345 - Service: Auth - Message: Login successful
+1734207738840,INFO,[INFO]  2024-12-01 14:20:00 - UserID: 67890 - Service: Signup - Message: User registered successfully
+1734207750847,INFO,[INFO]  2024-12-01 09:00:01 - UserID: 1001 - Service: Auth - Message: Login successful
+1734207766849,INFO,[INFO]  2024-12-01 09:20:15 - UserID: 1003 - Service: Signup - Message: User registration successful
+1734207778850,INFO,[INFO]  2024-12-01 09:35:00 - UserID: 1005 - Service: Auth - Message: Logout successful
+1734207794851,INFO,[INFO]  2024-12-01 09:55:45 - UserID: 1010 - Service: Signup - Message: Account created successfully
+1734207810853,INFO,[INFO]  2024-12-01 10:15:00 - UserID: 1015 - Service: Auth - Message: Password reset successful
+1734207826855,INFO,[INFO]  2024-12-01 10:35:15 - UserID: 1020 - Service: Auth - Message: Login attempt from new device
+1734207842856,INFO,[INFO]  2024-12-01 10:55:10 - UserID: 1025 - Service: Reporting - Message: Data report export completed
+1734207858858,INFO,[INFO]  2024-12-01 11:15:55 - UserID: 1030 - Service: Auth - Message: Multi-factor authentication enabled
+1734207874859,INFO,[INFO]  2024-12-01 11:35:15 - UserID: 1035 - Service: Signup - Message: User successfully registered
+1734207890862,INFO,[INFO]  2024-12-01 14:00:01 - UserID: 12345 - Service: Auth - Message: Login successful
+1734207906863,INFO,[INFO]  2024-12-01 14:20:00 - UserID: 67890 - Service: Signup - Message: User registered successfully
+1734207918865,INFO,[INFO]  2024-12-01 09:00:01 - UserID: 1001 - Service: Auth - Message: Login successful
+1734207934868,INFO,[INFO]  2024-12-01 09:20:15 - UserID: 1003 - Service: Signup - Message: User registration successful
+1734207946868,INFO,[INFO]  2024-12-01 09:35:00 - UserID: 1005 - Service: Auth - Message: Logout successful
+1734207962870,INFO,[INFO]  2024-12-01 09:55:45 - UserID: 1010 - Service: Signup - Message: Account created successfully
+1734207978871,INFO,[INFO]  2024-12-01 10:15:00 - UserID: 1015 - Service: Auth - Message: Password reset successful
+1734207994874,INFO,[INFO]  2024-12-01 10:35:15 - UserID: 1020 - Service: Auth - Message: Login attempt from new device
+1734208010877,INFO,[INFO]  2024-12-01 10:55:10 - UserID: 1025 - Service: Reporting - Message: Data report export completed
+1734208026878,INFO,[INFO]  2024-12-01 11:15:55 - UserID: 1030 - Service: Auth - Message: Multi-factor authentication enabled
+1734208042881,INFO,[INFO]  2024-12-01 11:35:15 - UserID: 1035 - Service: Signup - Message: User successfully registered
+1734208058884,INFO,[INFO]  2024-12-01 14:00:01 - UserID: 12345 - Service: Auth - Message: Login successful
+1734208074885,INFO,[INFO]  2024-12-01 14:20:00 - UserID: 67890 - Service: Signup - Message: User registered successfully
+1734208086886,INFO,[INFO]  2024-12-01 09:00:01 - UserID: 1001 - Service: Auth - Message: Login successful
+1734208102888,INFO,[INFO]  2024-12-01 09:20:15 - UserID: 1003 - Service: Signup - Message: User registration successful
+1734208114889,INFO,[INFO]  2024-12-01 09:35:00 - UserID: 1005 - Service: Auth - Message: Logout successful
+1734208130891,INFO,[INFO]  2024-12-01 09:55:45 - UserID: 1010 - Service: Signup - Message: Account created successfully
+1734208146893,INFO,[INFO]  2024-12-01 10:15:00 - UserID: 1015 - Service: Auth - Message: Password reset successful
+1734208162895,INFO,[INFO]  2024-12-01 10:35:15 - UserID: 1020 - Service: Auth - Message: Login attempt from new device
+1734208178896,INFO,[INFO]  2024-12-01 10:55:10 - UserID: 1025 - Service: Reporting - Message: Data report export completed
+1734208194898,INFO,[INFO]  2024-12-01 11:15:55 - UserID: 1030 - Service: Auth - Message: Multi-factor authentication enabled
+1734208210899,INFO,[INFO]  2024-12-01 11:35:15 - UserID: 1035 - Service: Signup - Message: User successfully registered
+1734208226902,INFO,[INFO]  2024-12-01 14:00:01 - UserID: 12345 - Service: Auth - Message: Login successful
+1734208242903,INFO,[INFO]  2024-12-01 14:20:00 - UserID: 67890 - Service: Signup - Message: User registered successfully
+1734208254905,INFO,[INFO]  2024-12-01 09:00:01 - UserID: 1001 - Service: Auth - Message: Login successful
+1734208270907,INFO,[INFO]  2024-12-01 09:20:15 - UserID: 1003 - Service: Signup - Message: User registration successful
+1734208282909,INFO,[INFO]  2024-12-01 09:35:00 - UserID: 1005 - Service: Auth - Message: Logout successful
+1734208298910,INFO,[INFO]  2024-12-01 09:55:45 - UserID: 1010 - Service: Signup - Message: Account created successfully
+1734208314912,INFO,[INFO]  2024-12-01 10:15:00 - UserID: 1015 - Service: Auth - Message: Password reset successful
+1734208330915,INFO,[INFO]  2024-12-01 10:35:15 - UserID: 1020 - Service: Auth - Message: Login attempt from new device
